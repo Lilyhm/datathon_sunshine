@@ -1,0 +1,11 @@
+{
+    "cols_to_use": ["HubRandomID", "Hub_ActivityID", "ActivityDate", 
+        "ProgrammeID", "ChildParticipants", "AdultParticipants", 
+        "ReferralParticipants", "EngagedCount", "StartTime", "EndTime", 
+        "HubVolunteers", "SchoolVolunteers", "ExternalVolunteers", 
+        "ProgrammeID", "ProgrammeID.1", "ServiceTypeID", 
+        "ProgrammeCategoryID", "ProgrammeCategoryID.1", "ShortName.1", 
+        "CategoryName", "ProgrammeName"],
+    "datetime_cols": ["ActivityDate", "StarTime", "EndTime"],
+    "data_path": "Datathon - CHA activities 2016-2020.csv"
+}
