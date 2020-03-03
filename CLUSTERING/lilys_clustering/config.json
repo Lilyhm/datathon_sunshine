@@ -1,8 +1,0 @@
-{"RAW_FILE_PATH": "Datathon data/Internal data track/Datathon - CHA activities 2016-2020.csv",
-  "COLS_TO_USE": ["HubRandomID", "Hub_ActivityID", "ActivityDate",
-               "ProgrammeID", "ChildParticipants", "AdultParticipants", "ReferralParticipants", 
-               "EngagedCount", "StartTime", "EndTime", "HubVolunteers",
-              "SchoolVolunteers", "ExternalVolunteers", "ProgrammeID", 
-              "ProgrammeID.1", "ServiceTypeID", "ProgrammeCategoryID",
-              "ProgrammeCategoryID.1", "ShortName.1", "CategoryName", "ProgrammeName"],
-"DATETIME_COLS": ["ActivityDate", "StartTime", "EndTime"]}
